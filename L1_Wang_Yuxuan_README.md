@@ -10,4 +10,4 @@ repo: https://git.cs.dal.ca/yuxuanw/l1_wang_yuxuan.git
 
 ### normalize.css
 
-The code file called normalize.css was retrieved from https://necolas.github.io/ by author Nicolas Gallagher. Accessed on 1 Jan 2022.
+The code file called normalize.css was retrieved from https://necolas.github.io/ by author Nicolas Gallagher. Accessed on 15 Jan 2022.
