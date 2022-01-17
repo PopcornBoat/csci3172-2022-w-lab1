@@ -1,0 +1,12 @@
+/*
+ * @author: Yuxuan Wang
+ * @descp: style settings aside from bootstrap
+ */
+ @import "../node_modules/bootstrap/scss/bootstrap";
+ .mg-bot-2em {
+     margin-bottom: 2em;
+ }
+
+#navlink a:hover {
+    color: aquamarine !important;
+}
